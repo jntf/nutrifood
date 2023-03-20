@@ -13,3 +13,10 @@
 ![alt text](https://github.com/jntf/nutrifood/blob/main/quests_pict/quest_3.png?raw=true)
 
 ![alt text](https://github.com/jntf/nutrifood/blob/main/quests_pict/quest_3_1.png?raw=true)
+
+#### Exercice 4: Les Modèles
+
+Pour ce challenge je vais te demander de créer une table `produit` et un champ `ingredient` de type texte
+![alt text](https://github.com/jntf/nutrifood/blob/main/quests_pict/quest_4_1.png?raw=true)
+
+![alt text](https://github.com/jntf/nutrifood/blob/main/quests_pict/quest_4_2.png?raw=true)

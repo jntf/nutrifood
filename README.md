@@ -20,3 +20,8 @@ Pour ce challenge je vais te demander de créer une table `produit` et un champ 
 ![alt text](https://github.com/jntf/nutrifood/blob/main/quests_pict/quest_4_1.png?raw=true)
 
 ![alt text](https://github.com/jntf/nutrifood/blob/main/quests_pict/quest_4_2.png?raw=true)
+
+#### Exercice 5: Commande personnalisée et API
+
+Pour cete exercice tu vas devoir créer une commande personnalisé qui va récupérer des informations avec l'API OpenFoodFact
+![alt text](https://github.com/jntf/nutrifood/blob/main/quests_pict/quest_5.png?raw=true)
